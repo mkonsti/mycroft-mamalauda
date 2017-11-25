@@ -1,5 +1,5 @@
 {
-  "utterance": "Who is Niki Lauda's mom",
+  "utterance": "who is niki lauda's mom",
   "intent_type": "MamaLaudaIntent",
   "intent": {
     "HowAreYouKeyword": "who is niki lauda's mom"
