@@ -36,7 +36,7 @@ class MamaLaudaSkill(MycroftSkill):
                              self.handle_mama_lauda_intent)
 
     def handle_mama_lauda_intent(self, message):
-        self.speak_dialog("welcome")
+        self.speak_dialog("mamalauda")
 
     def stop(self):
         pass
